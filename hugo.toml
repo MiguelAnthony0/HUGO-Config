@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Canserbero'
+theme = 'ananke'
+[params]
+  logo = "/static/img/logo.png"
+
+
+
+
+
